@@ -6,19 +6,20 @@ Rest Endpoints
 
 http://localhost:8081/api/
       
+</br>
+
+GET BY PARAM            /getproductdetails/{productId} </br>
+GET ALL, POST, PUT      /products </br>
+DELETE                  /products/{productId}    </br>
+      
+  
       
 
-GET BY PARAM            /getproductdetails/{productId}
-GET ALL, POST, PUT      /products
-DELETE                  /products/{productId}
-      
-      
+GET BY PARAM            /getconfigdetails/{LaptopId} </br>
+GET ALL, POST, PUT      /SystemConfig </br>
+DELETE                  /SystemConfig/{LaptopId}   </br>
 
-GET BY PARAM            /getconfigdetails/{LaptopId}
-GET ALL, POST, PUT      /SystemConfig
-DELETE                  /SystemConfig/{LaptopId}
-
-
+</br>
 
 
 Post
@@ -29,7 +30,7 @@ Post
     "productPrice": "35"  
 }
 
-
+</br>
 Post 
 {  
     "laptopId": "1000",  
@@ -39,6 +40,7 @@ Post
     "laptopOS": "WIN10"
 }
 
+</br>
 
 GET ALL FOR PRODUCT
 
@@ -59,3 +61,5 @@ GET ALL FOR PRODUCT
     "productPrice": "670"  
 }
 ]
+
+</br>
