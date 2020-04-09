@@ -100,3 +100,14 @@ run the application as Java application
 The Tomcat and H2 DB are embedded within the application
 
 No other installation needed other that Java and Eclipse
+
+The goto http://localhost:8081/h2-console/ 
+
+enter user h2
+
+paste the sql statement and run
+
+INSERT INTO PRODUCT (PRODUCT_ID,PRODUCT_NAME , PRODUCT_PRICE ) VALUES
+  ('6321', 'shampoo', '69');
+  
+ now to get the values http://localhost:8081/products
