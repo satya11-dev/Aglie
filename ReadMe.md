@@ -89,25 +89,29 @@ GET for All  /products
 
 </br>
 
-Starting the application 
+_______________________________________________________________________________
+|                                                                              |
+|                           Starting the application                           |
+|                                                                              |
+|______________________________________________________________________________|
 
-Please download the file from github
+>>Please download the file from github
 
-import the application as existing maven project
+>>import the application as existing maven project
 
-run the application as Java application
+>>run the application as Java application
 
-The Tomcat and H2 DB are embedded within the application
+>>The Tomcat and H2 DB are embedded within the application
 
-No other installation needed other that Java and Eclipse
+>>No other installation needed other that Java and Eclipse
 
-The goto http://localhost:8081/h2-console/ 
+>>The goto http://localhost:8081/h2-console/ 
 
-enter user h2
+>>enter user h2
 
-paste the sql statement and run
+>>paste the sql statement and run
 
-INSERT INTO PRODUCT (PRODUCT_ID,PRODUCT_NAME , PRODUCT_PRICE ) VALUES
+>>INSERT INTO PRODUCT (PRODUCT_ID,PRODUCT_NAME , PRODUCT_PRICE ) VALUES
   ('6321', 'shampoo', '69');
   
- now to get the values http://localhost:8081/products
+>> now to get the values http://localhost:8081/products
