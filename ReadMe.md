@@ -88,3 +88,15 @@ GET for All  /products
 ]
 
 </br>
+
+Starting the application 
+
+Please download the file from github
+
+import the application as existing maven project
+
+run the application as Java application
+
+The Tomcat and H2 DB are embedded within the application
+
+No other installation needed other that Java and Eclipse
