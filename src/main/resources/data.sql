@@ -1,5 +1,7 @@
+-- Deleting existing PRODUCT table if any
 
 DROP TABLE IF EXISTS PRODUCT CASCADE;
+
 -- Create table
 create table PRODUCT
 (
@@ -8,9 +10,8 @@ create table PRODUCT
   PRODUCT_PRICE   DOUBLE not null
 ) ;
 --  
-
-
 DROP TABLE IF EXISTS LAPTOP_CONFIGURATION  CASCADE;
+
 -- Create table
 create table LAPTOP_CONFIGURATION 
 (
