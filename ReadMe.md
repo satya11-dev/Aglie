@@ -1,5 +1,6 @@
-# Getting Started read the bottom setups first
+# Getting Started 
 
+Scroll down and read the bottom setups first
 
 Using Embedded H2 Database 
 
