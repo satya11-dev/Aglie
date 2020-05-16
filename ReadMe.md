@@ -111,14 +111,15 @@ _______________________________________________________________________________
 >>The Tomcat and H2 DB are embedded within the application
 
 >>No other installation needed other that Java and Eclipse
+  
+>> now to get the values http://localhost:8081/api/products
+
+
+>> if nothing appears
 
 >>The goto http://localhost:8081/h2-console/ 
 
 >>enter user h2 and press connect
-  
->> now to get the values http://localhost:8081/api/products
-
->> if nothing appears
 
 >>paste the sql statement and run
 
