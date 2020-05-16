@@ -119,4 +119,4 @@ _______________________________________________________________________________
 
 >> INSERT INTO PRODUCT (PRODUCT_ID,PRODUCT_NAME , PRODUCT_PRICE ) VALUES ('6321', 'shampoo', '69');
   
->> now to get the values http://localhost:8081/products
+>> now to get the values http://localhost:8081/api/products
