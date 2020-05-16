@@ -126,3 +126,7 @@ _______________________________________________________________________________
 >>paste the sql statement and run
 
 >> INSERT INTO PRODUCT (PRODUCT_ID,PRODUCT_NAME , PRODUCT_PRICE ) VALUES ('6321', 'shampoo', '69');
+
+>> now to get the values http://localhost:8081/api/products
+
+
