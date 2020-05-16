@@ -113,11 +113,10 @@ _______________________________________________________________________________
 
 >>The goto http://localhost:8081/h2-console/ 
 
->>enter user h2
+>>enter user h2 and press connect
 
 >>paste the sql statement and run
 
->>INSERT INTO PRODUCT (PRODUCT_ID,PRODUCT_NAME , PRODUCT_PRICE ) VALUES
-  ('6321', 'shampoo', '69');
+>> INSERT INTO PRODUCT (PRODUCT_ID,PRODUCT_NAME , PRODUCT_PRICE ) VALUES ('6321', 'shampoo', '69');
   
 >> now to get the values http://localhost:8081/products
