@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started read the bottom setups first
 
 
 Using Embedded H2 Database 
@@ -13,7 +13,13 @@ http://localhost:8081/api/
 
 GET BY PARAM            /getproductdetails/{productId} </br>
 
+http://localhost:8081/api/getproductdetails/{productId}
+
+
 GET ALL, POST, PUT      /products </br>
+
+http://localhost:8081/api/products
+
 
 DELETE                  /products/{productId}    </br>
       
