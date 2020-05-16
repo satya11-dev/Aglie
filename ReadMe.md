@@ -115,9 +115,9 @@ _______________________________________________________________________________
 >>No other installation needed other that Java and Eclipse
   
 
-[------- nothing happened -------]
+[------- nothing happened -------] 
 
->> if nothing appears
+>> if nothing appears instead of going to the earlier link press below link and see while it is in run mode 
 
 >>The goto http://localhost:8081/h2-console/ 
 
