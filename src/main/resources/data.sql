@@ -1,1 +1,13 @@
+
+DROP TABLE IF EXISTS PRODUCT CASCADE;
+-- Create table
+create table PRODUCT
+(
+  PRODUCT_ID        BIGINT not null,
+  PRODUCT_NAME VARCHAR(128) not null,
+  PRODUCT_PRICE   DOUBLE not null
+) ;
+--  
+
+
 INSERT INTO PRODUCT (PRODUCT_ID,PRODUCT_NAME , PRODUCT_PRICE ) VALUES ('6321', 'shampoo', '69');
