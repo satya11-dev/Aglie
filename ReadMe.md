@@ -119,7 +119,7 @@ _______________________________________________________________________________
 
 >> if nothing appears instead of going to the earlier link press below link and see while it is in run mode 
 
->>The goto http://localhost:8081/h2-console/ 
+>>goto http://localhost:8081/h2-console/ 
 
 >>enter user h2 and press connect
 
