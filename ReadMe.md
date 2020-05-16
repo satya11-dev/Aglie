@@ -108,11 +108,13 @@ _______________________________________________________________________________
 
 >>run the application as Java application
 
+>> now to get the values http://localhost:8081/api/products
+
 >>The Tomcat and H2 DB are embedded within the application
 
 >>No other installation needed other that Java and Eclipse
   
->> now to get the values http://localhost:8081/api/products
+
 
 
 >> if nothing appears
